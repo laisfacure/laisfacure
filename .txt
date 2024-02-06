@@ -1,0 +1,8 @@
+Algoritmo: Trata-se de um conjunto de instruções que estão organizadas para realizar certo tipo de função, ou seja, 
+dados processados a partir de um certo tipo de linguagem de programação, visando consertar um problema a partir de diversos passo a passo, sequenciado por instruções definidas que fazem e dizem como o computador pode 
+executar certa função em que é programado.
+Inteligencia Artificial: Sistema feito para autonomia dos computadores a fim de executar ações humanas de forma mais rápida e eficaz, eliminando a necessidade de um humano em controlar e estar no comando de um dispositivo,
+sendo a IA um dispositivo parcialmente dependente dos humanos.
+Dados: Elemento de informação organizado por unidades de blocos de dados a fim de armazenar conteúdo, sendo um bloco básico da programação. Consistem na matéria-prima da informação.
+Neutralidade da Rede: Filtro que serve para balancear todos os dados que trafegam na rede, sendo eles tratados da mesma forma e na mesma velocidade, servindo como um filtro, sem sofrer atrasos ou bloqueios.
+Servidor: É o instrumento que tem a função que guarda e armazena todas as unidades de dados, capaz de conter um ou mais processadores, além de bancos de memórias, portas de comunicação e diferentes softwares
