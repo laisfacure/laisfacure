@@ -6,3 +6,7 @@ sendo a IA um dispositivo parcialmente dependente dos humanos.
 Dados: Elemento de informação organizado por unidades de blocos de dados a fim de armazenar conteúdo, sendo um bloco básico da programação. Consistem na matéria-prima da informação.
 Neutralidade da Rede: Filtro que serve para balancear todos os dados que trafegam na rede, sendo eles tratados da mesma forma e na mesma velocidade, servindo como um filtro, sem sofrer atrasos ou bloqueios.
 Servidor: É o instrumento que tem a função que guarda e armazena todas as unidades de dados, capaz de conter um ou mais processadores, além de bancos de memórias, portas de comunicação e diferentes softwares
+Zero Rating: Tráfego de um aplicativo específico que não conta em sua franquia de dados, por exemplo, tudo que o usuário usar, será descontado da internet, ferindo a rede neutral artificial.
+Rede Neutral Artificial: Método da IA que soluciona ou tenta solucionar problemas complicados, como resumir documentos ou reconhecer rostos com eficiência.
+Jurimetria: Consiste na disciplina resultante da aplicação de modelos estatísticos, compreendendo melhor processos e fatos jurídicos, como por exemplo a elaboração legislativa e gestão pública; decisão judicial
+Memória: Instrumento que armazena informações, como dados e programas para uso imediato no computador, sinônimo de armazenamento primário ou memória principal, memória é armazenamento
