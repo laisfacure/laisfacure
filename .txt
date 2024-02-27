@@ -10,3 +10,4 @@ Zero Rating: Tráfego de um aplicativo específico que não conta em sua franqui
 Rede Neutral Artificial: Método da IA que soluciona ou tenta solucionar problemas complicados, como resumir documentos ou reconhecer rostos com eficiência.
 Jurimetria: Consiste na disciplina resultante da aplicação de modelos estatísticos, compreendendo melhor processos e fatos jurídicos, como por exemplo a elaboração legislativa e gestão pública; decisão judicial
 Memória: Instrumento que armazena informações, como dados e programas para uso imediato no computador, sinônimo de armazenamento primário ou memória principal, memória é armazenamento
+Variável: Se trata de um objeto ou posição que fica localizado na memória, sendo possível reter e representar um valor ou expressão, sendo associada à "nomes", chamados identificadores, durante o tempo de desenvolvimento.
