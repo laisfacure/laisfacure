@@ -86,3 +86,32 @@ def criar_lista_compras():
 
 
 criar_lista_compras()
+
+
+#exercicio 4.
+
+def questao4();
+    texto a input("Entre com a temperatura em Celsius")
+    celsius a float (texto)
+    
+    f = (celsius • 9/5) + 32
+    print(°A temperatura em Fahrenheit é",f)
+
+def questao5():
+    print("Entre com nomes. Digite sair para terminar.")
+    
+    nomes = []
+    
+    while True:
+        entrada = input()
+        
+        if entrada.lower() == 'sair':
+            break
+        else:
+            nomes.append(entrada)
+            
+    for nome in nomes:
+        print(nome)
+    
+
+
